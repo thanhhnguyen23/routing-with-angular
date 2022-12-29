@@ -23,7 +23,7 @@ describe('AppComponent', () => {
   it(`should have as title 'routing-with-angular'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('routing-with-angular');
+    expect(app.title).toEqual('Routing with Angular');
   });
 
   it('should render title', () => {

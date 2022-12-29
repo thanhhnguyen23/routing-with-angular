@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'routing-with-angular';
+  title = 'Routing with Angular';
+  version = 'Angular Version 13.3.0'
 }
